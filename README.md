@@ -39,7 +39,7 @@ The right click menu item opens up a floating window:
 - Sort the results
 
 - Undo
-    - All pperations should undo correctly
+    - All operations should undo correctly
 
 ## Notes
 
