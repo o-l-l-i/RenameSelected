@@ -10,15 +10,13 @@ Selections in multiple hiearchies is also supported, **but parent-child combinat
 
 ![Rename selected](renameSelected4.png)
 
-With a few clicks, you get this result:
-
-![Rename selected](renameSelected2.png) ![Rename selected](renameSelected3.png)
-
-## UI
-
 The right click menu item opens up a floating window:
 
 ![Rename selected](renameSelected1.png)
+
+With a few clicks, you get this result:
+
+![Rename selected](renameSelected2.png) ![Rename selected](renameSelected3.png)
 
 ## Features
 
