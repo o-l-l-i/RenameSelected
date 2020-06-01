@@ -44,3 +44,5 @@ With a few clicks, you get this result:
 Even though I stated it already, this script does not support renaming objects in *project* window, i.e. Assets on disk.
 
 Developed on Unity 2018.4.12f1. Will most likely work on later versions, too.
+
+© 2020 Olli Sorjonen All Rights Reserved
